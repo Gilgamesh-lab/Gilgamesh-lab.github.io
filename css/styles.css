@@ -10981,3 +10981,8 @@ section.resume-section .resume-section-content {
   height: 100vh;
   margin: 0;
 }
+
+.ico {  
+  width: 5%;
+  height: 5%;
+}
