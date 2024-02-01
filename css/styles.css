@@ -10998,4 +10998,9 @@ table, caption, th, td {
   padding: 8px;
   
   }
+
+  .vs {  
+    width: 10%;
+    height: 10%;
+  }
   
